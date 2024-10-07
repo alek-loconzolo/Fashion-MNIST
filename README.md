@@ -98,7 +98,3 @@ The trained model is saved to the file `fmnist.pth`, which can be reloaded for f
 ```python
 torch.save(net.state_dict(), "fmnist.pth")
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
